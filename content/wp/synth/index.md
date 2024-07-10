@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Populism or Impeachment? Explaining the Brazilian Democratic Backsliding"
-authors: ["admin", "Paolo Ricci", "Raphaela Velho", "Guilherme Tiengo", "Yuri Ferreira"]
+authors: ["admin"]
 date: 2023-07-16
 #doi: "https://doi.org/10.1111/nana.12949"
 

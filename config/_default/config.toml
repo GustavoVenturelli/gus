@@ -14,7 +14,7 @@ baseurl = "http://www.statslab.cam.ac.uk/~qz280/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "`&copy;` {year} Gustavo Venturelli"
+copyright = "&copy;" "{year} Gustavo Venturelli"
 
 ############################
 ## Advanced options below ##

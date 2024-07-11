@@ -29,7 +29,7 @@
 #   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "publications"
   url = "featured/"
   weight = 10
 
@@ -39,7 +39,7 @@
 #  weight = 20
 
 [[main]]
-  name = "Working Papers"
+  name = "working papers"
   url = "wp/"
   weight = 30
 
@@ -51,6 +51,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-    name = "CV"
+    name = "cv"
     url = "files/cv.pdf"
     weight = 70

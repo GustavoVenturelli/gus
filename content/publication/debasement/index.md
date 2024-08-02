@@ -4,7 +4,7 @@
 title: "The Sharp-Tongued Loudmouth: Incivility and Debasement in Brazil’s President Jair Bolsonaro’s YouTube Livestreams"
 authors: ["admin", "Edurado Ryô Tamaki", "Matheus Gomes Ferreira Mendonça"]
 date: 2023-04-23
-doi: "https://link.springer.com/chapter/10.1007/978-981-99-0894-3_5"
+doi: "10.1007/978-981-99-0894-3_5"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-13T21:28:45Z

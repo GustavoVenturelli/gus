@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Are There Populist Parties in Brazil? An Analysis of Election Manifestos (2010 - 2022) (Forthcoming in Party Politics)"
+title: "Are There Populist Parties in Brazil? An Analysis of Election Manifestos (2010 - 2022)"
 authors: ["admin"]
 date: 2024-06-24
-doi: ""
+doi: "https://journals.sagepub.com/doi/abs/10.1177/13540688241269775"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-13T21:28:45Z
@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: "https://journals.sagepub.com/doi/abs/10.1177/13540688241269775"
 url_code: 
 url_dataset: 
 url_poster:

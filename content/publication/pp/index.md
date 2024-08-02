@@ -4,7 +4,7 @@
 title: "Are There Populist Parties in Brazil? An Analysis of Election Manifestos (2010 - 2022)"
 authors: ["admin"]
 date: 2024-06-24
-doi: "https://journals.sagepub.com/doi/abs/10.1177/13540688241269775"
+doi: "10.1177/13540688241269775"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-13T21:28:45Z

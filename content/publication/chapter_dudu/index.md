@@ -4,7 +4,7 @@
 title: "International Constellations of the Populist Radical-Right: An Analysis of Jair Bolsonaro’s International Speeches (2019–2020)"
 authors: ["Eduardo Ryô tamaki", "admin"]
 date: 2023-11-23
-doi: "https://link.springer.com/chapter/10.1007/978-3-031-41640-8_14"
+doi: "10.1007/978-3-031-41640-8_14"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-13T21:28:45Z

@@ -4,7 +4,7 @@
 title: "Connections between populism and nationalism: Evidence from Jair Bolsonaro's speeches"
 authors: ["Paolo Ricci", "admin"]
 date: 2023-04-16
-doi: "https://doi.org/10.1111/nana.12949"
+doi: "10.1111/nana.12949"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-13T21:28:45Z

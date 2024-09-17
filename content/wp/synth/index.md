@@ -24,7 +24,7 @@ abstract: "What is Bolsonaro’s effect on Brazilian democratic backsliding? Wha
 # Summary. An optional shortened abstract.
 summary: "What is Bolsonaro’s effect on Brazilian democratic backsliding? What if he was not elected? This chapter uses the synthetic control method to show that despite being a symptom and continuer of Brazilian democratic erosion, Bolsonaro is not the baseline of the episode. Dilma Rousseff’s impeachment has a previous and greater causal effect in undermining democratic institutions in the country, proving that when misused, impeachment can harm democracy."
 
-tags: ["Brazil", "Populism", "Supervised Machine Learning", "BERTimbau", "Social Media"]
+tags: ["Brazil", "Democratic Backsliding", "Populism", "Impeachment", "Synthetic Control Method"]
 categories: []
 featured: true
 

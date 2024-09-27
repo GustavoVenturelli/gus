@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:gventurelli@skidmore.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:VenturelliG@ceu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=pt-PT&user=DLHvD5wAAAAJ
@@ -65,7 +65,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gventurelli@skidmore.edu"
+email: "VenturelliG@ceu.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,7 +73,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am an incoming Postdoctoral Fellow at the Central European University Democracy Institute [OSUN Forum on Democracy and Development](https://osunforum.ceu.edu/) project at the Populism, Ideology, and Discourse in the Global South Hub. Before joining CEU, I was a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br) and taught at Yeshiva University in NYC.
+I am an incoming Postdoctoral Fellow at the Central European University Democracy Institute [OSUN Forum on Democracy and Development]([https://osunforum.ceu.edu/](https://globalforum.ceu.edu/gustavo-venturelli/)) project at the Populism, Ideology, and Discourse in the Global South Hub. Before joining CEU, I was a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br) and taught at Yeshiva University in NYC.
 
 My research focuses on populism and democratic backsliding in Latin America. I address the causes, nature, and consequences of populism by focusing on public opinion surveys, political speeches, election manifestos, social media, and levels of democracy. I rely on text as data analysis and causal inference applications to investigate these topics. Beyond my immediate interests, I am also engaged in research collaborations on polarization, elections, political parties, and legislative studies.
 

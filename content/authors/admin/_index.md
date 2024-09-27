@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow at the Central European University Democracy Institute
+role: Postdoctoral Researcher at Central European University Democracy Institute
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Fellow at the Central European University Democracy Institute.
+bio: Postdoctoral Researcher at Central European University Democracy Institute.
 
 
 interests:

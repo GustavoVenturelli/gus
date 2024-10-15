@@ -30,11 +30,11 @@ featured: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
-#links:
-# - name: Read
-#   url: https://twitter.com
-#   icon_pack: fab
-#   icon: 
+links:
+ - name: Watch
+   url: https://www.youtube.com/watch?v=xI_ugahKqhM&t
+   icon_pack: fab
+   icon: 
 
 url_pdf: 
 url_code: 
@@ -43,7 +43,7 @@ url_poster:
 url_project:
 url_slides: 
 url_source:
-url_video: https://www.youtube.com/watch?v=xI_ugahKqhM&t
+url_video: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

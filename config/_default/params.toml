@@ -88,12 +88,12 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "gventurelli@skidmore.edu"
+email = "venturellig@ceu.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Democracy Institute, Central European University", city = "Nador u. 9, Budapest", region = "", postcode = "CB3 0WB", country = "Hungary", country_code = "HG"}
+address = {street = "Democracy Institute, Central European University", city = "Nador u. 15, Budapest", region = "", postcode = "1051", country = "Hungary", country_code = "HG"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.

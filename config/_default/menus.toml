@@ -24,7 +24,7 @@
 #  weight = 30
 
  [[main]]
-   name = "Media"
+   name = "media"
    url = "media/"
    weight = 40
 

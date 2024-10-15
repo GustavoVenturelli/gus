@@ -73,7 +73,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Postdoctoral Researcher at Central European University Democracy Institute, working on the [OSUN Forum on Democracy and Development](https://globalforum.ceu.edu/gustavo-venturelli/) project at the Populism, Ideology, and Discourse in the Global South Hub. Before joining CEU, I was a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br) and taught at Yeshiva University in New York City.
+I am a Postdoctoral Researcher at Central European University Democracy Institute, working on the [Global Forum on Democracy and Development](https://globalforum.ceu.edu/gustavo-venturelli/) project at the Populism, Ideology, and Discourse in the Global South Hub. Before joining CEU, I was a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br) and taught at [Yeshiva University](https://www.yu.edu/yeshiva-college/ug/political-science).
 
 My research focuses on populism and democratic backsliding in Latin America. I address the causes, nature, and consequences of populism by focusing on public opinion surveys, political speeches, election manifestos, social media, and levels of democracy. I rely on text as data analysis and causal inference applications to investigate these topics. Beyond my immediate interests, I am also engaged in research collaborations on polarization, elections and electoral distrust, partisanship and political parties, and legislative studies.
 

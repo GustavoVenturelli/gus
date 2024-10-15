@@ -32,7 +32,7 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Read
-   url: [https://twitter.com](https://pp.nexojornal.com.br/glossario/2024/10/08/a-crise-democratica-e-a-democracia-militante)
+   url: https://pp.nexojornal.com.br/glossario/2024/10/08/a-crise-democratica-e-a-democracia-militante
    icon_pack: fab
    icon: 
 

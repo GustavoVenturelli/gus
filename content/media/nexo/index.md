@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nexo Políticas Públicas, Glossário: A crise democrática e a democracia militante"
+title: "A crise democrática e a democracia militante"
 authors: ["Gabriel Pinho", "admin", "Paolo Ricci"]
 date: 2024-11-16
 doi: 
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "Nexo Jornal"
 publication_short: "in Portuguese"
 
-abstract: ""
+abstract: "Nexo Políticas Públicas, Glossário"
 
 # Summary. An optional shortened abstract.
 summary: ""

@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Nexo Políticas Públicas, Ponto de Vista: Do que precisamos para conter um populista autoritário?"
+title: "Do que precisamos para conter um populista autoritário?"
 authors: ["admin", "Gabriel Pinho", "Paolo Ricci"]
 date: 2024-11-16
 doi: 
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "Nexo Jornal"
 publication_short: "in Portuguese"
 
-abstract: ""
+abstract: "Nexo Políticas Públicas, Ponto de Vista"
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -32,7 +32,7 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Read
-   url: https://twitter.com
+   url: [https://twitter.com](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/27/do-que-precisamos-para-conter-um-populista-autoritario)
    icon_pack: fab
    icon: 
 
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides: 
-url_source: https://pp.nexojornal.com.br/ponto-de-vista/2024/12/27/do-que-precisamos-para-conter-um-populista-autoritario
+url_source: 
 url_video: 
 
 # Featured image

@@ -32,7 +32,7 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Read
-   url: [https://twitter.com](https://pp.nexojornal.com.br/ponto-de-vista/2024/12/27/do-que-precisamos-para-conter-um-populista-autoritario)
+   url: https://pp.nexojornal.com.br/ponto-de-vista/2024/12/27/do-que-precisamos-para-conter-um-populista-autoritario
    icon_pack: fab
    icon: 
 

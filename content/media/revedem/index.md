@@ -3,7 +3,7 @@
 
 title: "The Review of Democracy: Brazil’s Democratic Resilience: How Institutions Withstood Bolsonaro’s Assault"
 authors: ["admin", "Paolo Ricci", "Gabriel Pinho"]
-date: 2024-11-16
+date: 2025-05-23
 doi: 
 
 # Schedule page publish date (NOT publication's date).

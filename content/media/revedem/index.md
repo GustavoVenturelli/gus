@@ -32,7 +32,7 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Read
-   url: 
+   url: https://revdem.ceu.edu/2025/05/23/brazils-democratic-resilience/
    icon_pack: fab
    icon: 
 
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides: 
-url_source: https://revdem.ceu.edu/2025/05/23/brazils-democratic-resilience/
+url_source: 
 url_video: 
 
 # Featured image

@@ -32,7 +32,7 @@ featured: true
 #   Uncomment and edit lines below to show custom links.
 links:
  - name: Read
-   url: https://twitter.com
+   url: 
    icon_pack: fab
    icon: 
 

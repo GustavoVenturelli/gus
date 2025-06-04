@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Review of Democracy: Brazil’s Democratic Resilience: How Institutions Withstood Bolsonaro’s Assault"
+title: "Brazil’s Democratic Resilience: How Institutions Withstood Bolsonaro’s Assault"
 authors: ["admin", "Paolo Ricci", "Gabriel Pinho"]
 date: 2025-05-23
 doi: 
@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "The Review of Democracy"
 publication_short: " "
 
-abstract: ""
+abstract: "The Review of Democracy"
 
 # Summary. An optional shortened abstract.
 summary: ""

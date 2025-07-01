@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher at Central European University Democracy Institute
+role: Postdoctoral Researcher at Federal University of Santa Catarina
 
 # Organizations/Affiliations
 organizations:
-- name: #Central European University
+- name: #Federal University of Santa Catarina
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:VenturelliG@ceu.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:gventurelli@stetson.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=pt-PT&user=DLHvD5wAAAAJ
@@ -65,7 +65,7 @@ social:
   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "VenturelliG@ceu.edu"
+email: "gventurelli@stetson.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,7 +73,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Postdoctoral Researcher in the Department of Sociology and Political Science at the Federal University of Santa Catarina (UFSC) and an incoming Assistant Professor at Stetson University. I'm also a researcher affiliated with [ReDem](https://redem.tec.br/). Before joining UFSC, I was a Postdoctoral Fellow at CEU and a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br).
+I am a Postdoctoral Researcher in the [Department of Sociology and Political Science at the Federal University of Santa Catarina](https://ppgsp.posgrad.ufsc.br/) (UFSC) and an incoming Assistant Professor at Stetson University. I'm also a researcher affiliated with [ReDem](https://redem.tec.br/). Before joining UFSC, I was a Postdoctoral Fellow at [Central European University](https://globalforum.ceu.edu/gustavo-venturelli/) and a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br).
 
 My research focuses on populism and democratic backsliding in Latin America. I address the causes, nature, and consequences of populism by focusing on public opinion surveys, political speeches, election manifestos, social media, and levels of democracy. I rely on text-as-data analysis and causal inference applications to investigate these topics. Beyond my immediate interests, I am also engaged in research collaborations on polarization, elections and electoral distrust, partisanship and political parties, and legislative studies.
 

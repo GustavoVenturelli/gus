@@ -88,16 +88,17 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "venturellig@ceu.edu"
+email = "gventurelli@stetson.edu"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Democracy Institute, Central European University", city = "Nador u. 15, Budapest", region = "", postcode = "1051", country = "Hungary", country_code = "HG"}
+address = {street = "Department of Sociology and Political Science, Federal University of Santa Catarina", city = "Florianópolis", region = "SC", postcode = "88040-900", country = "Brazil", country_code = "BR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "47.50131540859945", longitude = "19.049374734859175"}
+coordinates = {latitude = "-27.60243373764625", longitude = "-48.522255166408996"}
+
 
 # Directions for visitors to locate you.
 #directions = "Office X"

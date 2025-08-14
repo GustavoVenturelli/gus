@@ -73,9 +73,9 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Postdoctoral Researcher in the [Department of Sociology and Political Science at the Federal University of Santa Catarina](https://ppgsp.posgrad.ufsc.br/) (UFSC) and an incoming Assistant Professor at Stetson University. I'm also a researcher affiliated with [ReDem](https://redem.tec.br/). Before joining UFSC, I was a Postdoctoral Fellow at [Central European University](https://globalforum.ceu.edu/gustavo-venturelli/) and a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br).
+I am an Assistant Professor of Political Science at [Stetson University](https://www.stetson.edu/artsci/political-science/faculty.php). I'm also a researcher affiliated with [ReDem](https://redem.tec.br/). Before joining Stetson, I was a Postdoctoral Fellow at [Central European University](https://globalforum.ceu.edu/gustavo-venturelli/) and a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br).
 
-My research focuses on populism and democratic backsliding in Latin America. I address the causes, nature, and consequences of populism by focusing on public opinion surveys, political speeches, election manifestos, social media, and levels of democracy. I rely on text-as-data analysis and causal inference applications to investigate these topics. Beyond my immediate interests, I am also engaged in research collaborations on polarization, elections and electoral distrust, partisanship and political parties, and legislative studies.
+My research focuses on populism and democratic backsliding in Latin America. Beyond my immediate interests, I am also engaged in research collaborations on polarization, elections and electoral distrust, partisanship and political parties, and legislative studies.
 
 I am originally from Southern Brazil. In my free time, I play instruments in [Fantasma](https://f4nt4sm4.bandcamp.com) and guitar/sing in [Gerinc](https://szegyenkazettak.bandcamp.com/album/reklam-ci).
 

@@ -93,11 +93,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Sociology and Political Science, Federal University of Santa Catarina", city = "Florianópolis", region = "SC", postcode = "88040-900", country = "Brazil", country_code = "BR"}
+address = {street = "Department of Political Science, Stetson University", city = "DeLand", region = "FL", postcode = "32723", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-27.60243373764625", longitude = "-48.522255166408996"}
+coordinates = {latitude = "29.0352271285035", longitude = "-81.30230605922702"}
 
 
 # Directions for visitors to locate you.

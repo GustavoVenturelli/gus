@@ -10,20 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher at Federal University of Santa Catarina
+role: Assistant Professor of Political Science
 
 # Organizations/Affiliations
 organizations:
-- name: #Federal University of Santa Catarina
+- name: #Stetson University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoctoral Researcher at Central European University Democracy Institute.
+bio: Assistant Professor of Political Science at Stetson University.
 
 
 interests:
 - Populism
 - Democratic Backsliding
+- Electoral Integrity
 - Latin American Politics
 
 
@@ -73,7 +74,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am an Assistant Professor of Political Science at [Stetson University](https://www.stetson.edu/artsci/political-science/faculty.php). I'm also a researcher affiliated with [ReDem](https://redem.tec.br/). Before joining Stetson, I was a Postdoctoral Fellow at [Central European University](https://globalforum.ceu.edu/gustavo-venturelli/) and a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br).
+I am an Assistant Professor of Political Science at [Stetson University](https://www.stetson.edu/artsci/political-science/faculty.php). I'm also a researcher affiliated with [Team Populism](https://populism.byu.edu/directory/gustavo-venturelli) and [ReDem](https://redem.tec.br/). Before joining Stetson, I was a Postdoctoral Fellow at [Central European University](https://globalforum.ceu.edu/gustavo-venturelli/) and a Visiting Assistant Professor of Political Science at [Skidmore College](https://www.skidmore.edu/political_science/index.php). Previously, I received my PhD from the [University of São Paulo](https://dcp.fflch.usp.br).
 
 My research focuses on populism and democratic backsliding in Latin America. Beyond my immediate interests, I am also engaged in research collaborations on polarization, elections and electoral distrust, partisanship and political parties, and legislative studies.
 

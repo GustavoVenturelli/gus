@@ -4,7 +4,7 @@
 title: "Populismo e Trabalhismo na Historiografia Brasileira: Uma Reconciliação Necessária a Partir dos Discursos de Getúlio Vargas (1930-1054)"
 authors: ["Paolo Ricci", "admin", "Jaquline Porto Zulini"]
 date: 2026-08-25
-doi: "10.1177/13540688241269775"
+doi: "10.11606/issn.2316-9141.rh.2026.239604"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-06-13T21:28:45Z

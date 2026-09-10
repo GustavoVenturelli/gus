@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Populismo e Trabalhismo na Historiografia Brasileira: Uma Reconciliação Necessária a Partir dos Discursos de Getúlio Vargas (1930-1054)"
-authors: ["admin"]
+authors: ["Paolo Ricci", "admin", "Jaquline Porto Zulini"]
 date: 2026-08-25
 doi: "10.1177/13540688241269775"
 

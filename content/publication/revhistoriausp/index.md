@@ -23,7 +23,7 @@ abstract: "O artigo propõe uma releitura do trabalhismo de Getúlio Vargas, mob
 
 # Summary. An optional shortened abstract.
 summary: ""
-tags: ["trabalhismo", "populismo", "Getúlio" Vargas, "discursos oficiais", "Era Vargas"]
+tags: ["trabalhismo", "populismo", "Getúlio Vargas", "discursos oficiais", "Era Vargas"]
 categories: []
 featured: true
 

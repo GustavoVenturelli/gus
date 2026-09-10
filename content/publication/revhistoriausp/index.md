@@ -3,7 +3,7 @@
 
 title: "Populismo e Trabalhismo na Historiografia Brasileira: Uma Reconciliação Necessária a Partir dos Discursos de Getúlio Vargas (1930-1054)"
 authors: ["admin"]
-date: 2024-06-24
+date: 2026-08-25
 doi: "10.1177/13540688241269775"
 
 # Schedule page publish date (NOT publication's date).

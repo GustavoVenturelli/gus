@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "[https://journals.sagepub.com/doi/abs/10.1177/13540688241269775](https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2735922)"
+url_pdf: "https://www.tandfonline.com/doi/full/10.1080/10584609.2026.2735922"
 url_code: 
 url_dataset: 
 url_poster:

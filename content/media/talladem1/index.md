@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "Tallahassee Democrat"
 publication_short: " "
 
-abstract: "Op-ed on Midterm Elections in Florida"
+abstract: "*Tallahassee Democrat*, Op-ed on Midterm Elections in Florida"
 
 # Summary. An optional shortened abstract.
 summary: ""

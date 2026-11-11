@@ -19,7 +19,7 @@ publication_types: ["0"]
 publication: "Razón de Estado"
 publication_short: "in Spanish"
 
-abstract: "Comment on the runoff of the 2022 Brazilian elections."
+abstract: "Razón de Estado TV, Comment on the runoff of the 2022 Brazilian elections."
 
 # Summary. An optional shortened abstract.
 summary: ""

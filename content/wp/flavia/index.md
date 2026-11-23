@@ -4,7 +4,7 @@
 title: "Backsliding by Mistake? Rousseff's Impeachment and the Unintended Erosion of Brazilian Democracy"
 authors: ["admin", "Flavia Batista da Silva"]
 date: 2026-11-27
-#doi: "https://doi.org/10.1111/nana.12949"
+#doi: " "
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2026-11-27T21:28:45Z
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: "Working Paper"
 publication_short: ""
 
-abstract:
+abstract: "Under Review"
 
 # Summary. An optional shortened abstract.
 summary: "Under Review"

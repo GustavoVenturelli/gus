@@ -24,7 +24,7 @@ abstract: "Revise and Resubmit"
 # Summary. An optional shortened abstract.
 summary: "Revise and Resubmit"
 
-tags: ["Political parties", "party systems", "Workers’ Party", "Brazil", "Latin America"]
+tags: ["Electoral Justice", "Electoral Management Bodies", "Electoral Code", "Brazil", "Tribunal Superior Eleitoral"]
 categories: []
 featured: true
 
